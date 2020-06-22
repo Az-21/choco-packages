@@ -36,27 +36,19 @@ choco install advanced-renamer, audacity, audacity-ffmpeg, audacity-lame, calibr
 
 * WO Mic
 
-
-
 ## Additional Steps (for some programs)
 
 ### Cmder
 
-[Add to context menu]([&quot;Open Cmder Here&quot; in context menu · GitHub](https://gist.github.com/hamzahamidi/ce00cdc5895480b9d538093bdeda4334)) and enable quake-style.
-
-
+[Add Cmder to context menu](https://gist.github.com/hamzahamidi/ce00cdc5895480b9d538093bdeda4334), enable quake-style, and set to **start as admin** in properties of `cmder.exe`
 
 ### Wox
 
 Manually enable `Everything` module.
 
-
-
 ### Greenshot
 
 `Ctrl + Alt + Shift + i`
-
-
 
 ### scrcpy
 
