@@ -16,8 +16,8 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 ## Installing packages
 
-```bash
-choco install advanced-renamer, audacity, audacity-ffmpeg, audacity-lame, calibre, ccleaner, cheatengine, Cmder, discord, Everything, f.lux, ffmpeg, filebot, git, github-desktop, greenshot, handbrake, marktext, musicbee, neovim, nodejs, nomacs, notion, obs-studio, pandoc, peazip, potplayer, powertoys, protonvpn, python3, qbittorrent, scrcpy, spotify, telegram, wox, xdm, youtube-dl -y
+```power
+choco install advanced-renamer, audacity, audacity-ffmpeg, audacity-lame, calibre, ccleaner, cheatengine, Cmder, discord, Everything, f.lux, ffmpeg, git, github-desktop, greenshot, handbrake, marktext, musicbee, neovim, nodejs, nomacs, notion, obs-studio, pandoc, peazip, potplayer, powertoys, protonvpn, python3, qbittorrent, scrcpy, spotify, telegram, wox, xdm, youtube-dl -y
 ```
 
 ## List of other useful programs
