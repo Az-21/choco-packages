@@ -17,14 +17,18 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ## Installing packages
 
 ```power
-choco install advanced-renamer, audacity, audacity-ffmpeg, audacity-lame, calibre, ccleaner, cheatengine, Cmder, discord, Everything, f.lux, ffmpeg, git, github-desktop, greenshot, handbrake, marktext, musicbee, neovim, nodejs, nomacs, notion, obs-studio, pandoc, peazip, potplayer, powertoys, protonvpn, python3, qbittorrent, scrcpy, spotify, telegram, wox, xdm, youtube-dl -y
+choco install advanced-renamer, audacity, audacity-ffmpeg, audacity-lame, calibre, ccleaner, cheatengine, Cmder, discord, Everything, f.lux, ffmpeg, git, github-desktop, greenshot, handbrake, marktext, microsoft-windows-terminal, musicbee, neovim, nodejs, nomacs, notion, obs-studio, pandoc, peazip, potplayer, powertoys, protonvpn, python3, qbittorrent, scrcpy, spotify, telegram, wox, xdm, youtube-dl -y
 ```
 
 ## List of other useful programs
 
-* Edge Dev Production
+* Edge Dev Branch
+
+* FanFicFare
   
-  * Choco has problems updating this package. Chromium self-updates just fine.
+  * ```powershell
+    pip install FanFicFare
+    ```
 
 * Mailspring
 
