@@ -1,0 +1,49 @@
+{
+	"initialCols": 110,
+	"initialRows": 20,
+	"initialPosition": "150,200",
+	"copyOnSelect": true,
+
+	"profiles": [
+		{
+			"colorScheme": "Snazzy",
+			"antialiasingMode": "cleartype",
+			"closeOnExit": "graceful",
+			"cursorShape": "emptyBox",
+			"fontFace": "Dank Mono",
+			"fontSize": 18,
+			"hidden": false,
+			"historySize": 9001,
+			"padding": "80, 50",
+			"snapOnInput": true,
+			"altGrAliasing": true,
+			"startingDirectory": "%USERPROFILE%/Desktop/",
+			"useAcrylic": true,
+			"acrylicOpacity": 0.2,
+			"experimental.retroTerminalEffect": true
+		}
+	],
+	"schemes": [
+		{
+			"name": "Snazzy",
+			"black": "#000000",
+			"red": "#fc4346",
+			"green": "#50fb7c",
+			"yellow": "#f0fb8c",
+			"blue": "#49baff",
+			"purple": "#fc4cb4",
+			"cyan": "#8be9fe",
+			"white": "#ededec",
+			"brightBlack": "#00fa36",
+			"brightRed": "#fc4346",
+			"brightGreen": "#50fb7c",
+			"brightYellow": "#00c7bd",
+			"brightBlue": "#49baff",
+			"brightPurple": "#fc4cb4",
+			"brightCyan": "#8be9fe",
+			"brightWhite": "#ededec",
+			"background": "#111111",
+			"foreground": "#ebece6"
+		}
+	]
+}
