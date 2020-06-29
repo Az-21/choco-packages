@@ -2,6 +2,8 @@
 
 Backup of some useful programs available via chocolatey
 
+
+
 ## Installing choco
 
 Enter the following commands in powershell with **admin privilege**
@@ -14,21 +16,19 @@ Set-ExecutionPolicy AllSigned
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 ```
 
+
+
 ## Installing packages
 
 ```power
-choco install advanced-renamer, audacity, audacity-ffmpeg, audacity-lame, calibre, ccleaner, cheatengine, Cmder, discord, Everything, f.lux, ffmpeg, git, github-desktop, greenshot, handbrake, marktext, microsoft-windows-terminal, musicbee, neovim, nodejs, nomacs, notion, obs-studio, pandoc, peazip, potplayer, powertoys, protonvpn, python3, qbittorrent, scrcpy, spotify, telegram, wox, xdm, youtube-dl -y
+choco install advanced-renamer, audacity, audacity-ffmpeg, audacity-lame, calibre, ccleaner, cheatengine, Cmder, discord, Everything, f.lux, ffmpeg, git, github-desktop, greenshot, handbrake, marktext, microsoft-windows-terminal, musicbee, neovim, nodejs, notion, obs-studio, pandoc, peazip, potplayer, powertoys, protonvpn, python3, qbittorrent, scrcpy, spotify, telegram, wox, xdm, youtube-dl -y
 ```
+
+
 
 ## List of other useful programs
 
 * Edge Dev Branch
-
-* FanFicFare
-  
-  * ```powershell
-    pip install FanFicFare
-    ```
 
 * Mailspring
 
@@ -39,6 +39,8 @@ choco install advanced-renamer, audacity, audacity-ffmpeg, audacity-lame, calibr
 * Proton VPN
 
 * WO Mic
+
+
 
 ## Additional Steps (for some programs)
 
@@ -59,3 +61,8 @@ Manually enable `Everything` module.
 Enable DPI override
 
 `scrcpy.exe -> Properties -> Compatibility -> Change high DPI setting -> Check -> Application`
+
+
+## Removed Programs
+
+- nomacs: default photos app is better
